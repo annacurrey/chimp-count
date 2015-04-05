@@ -1,5 +1,6 @@
 # Chimpanzee Counting
 Author: Anna Currey
+
 Created: May 2014
 
 ### Overview
