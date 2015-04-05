@@ -1,0 +1,164 @@
+/**
+ * service.css
+ *
+ * Computer Science 50
+ * Final project
+ *
+ * Global stylesheet.
+ */
+       
+html
+{
+    height: 100%;
+}
+
+body
+{
+    font-family: Verdana, Calibri, Arial, sans-serif;
+    height: 100%;
+    width: 55%;
+    margin: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #FFF5FF;
+    position: relative;
+    color: #6E6E6E;
+}
+
+#top
+{
+    text-align: center;
+}
+
+#header
+{
+    font-size: 40px;
+    margin: 15px;
+    font-weight: bold;
+}
+
+#instruct-text
+{
+    font-size: 18px;
+    margin: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+#timer
+{
+    text-align: center;
+    font-size: 30px;
+    line-height: 30px;
+    vertical-align: bottom;
+    color: #FF4719;
+    font-weight: bold;
+}
+
+#middle
+{
+    border: 3px #B8B8B8 solid;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    height: 350px;
+    width: 700px;
+    float: center;
+    position: relative;
+    background-color: #FFFFFF;
+}
+
+.button
+{
+    border: 2px #B8B8B8 solid;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 40px;
+    vertical-align: middle;
+    background-color: #B8E4B8;
+    width: 250px;
+    margin: auto;
+    position: relative;
+    top: 150px;
+}
+
+#message
+{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 70px;
+    line-height: 80px;
+    font-weight: bold;
+    color: #70C870;
+    position: relative;
+}
+
+#footer
+{
+    font-size: small;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.card
+{
+    border: 2px #B8B8B8 solid;
+    text-align: center;
+    color: #6E6E6E;
+    background-color: #FFFFE8;
+    height: 120px;
+    line-height: 112px;
+    width: 105px;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#card0
+{
+    position: absolute;
+    left: 60px;
+    top: 30px;
+}
+
+#card1
+{
+    position: absolute;
+    left: 300px;
+    top: 30px;
+}
+
+#card2
+{
+    position: absolute;
+    left: 480px;
+    top: 40px;
+}
+
+#card3
+{
+    position: absolute;
+    left: 100px;
+    top: 170px;
+}
+
+#card4
+{
+    position: absolute;
+    left: 270px;
+    top: 200px;
+}
+
+#card5
+{
+    position: absolute;
+    left: 500px;
+    top: 190px;
+}
+
